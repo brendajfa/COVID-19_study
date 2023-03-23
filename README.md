@@ -43,7 +43,7 @@
 
 ## Regression
 <p align="center">
-    <img src="ML_Models/Regression.png" width="80%">
+    <img src="ML_models/Regression.png" width="80%">
 </p>
 
 ### Linear Regression
